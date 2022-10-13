@@ -1,0 +1,19 @@
+{
+  "name": "quiz-site",
+  "version": "0.0.1",
+  "description": "The quiz site for those who are proper puzzlers.",
+  "main": "index.js",
+  "authors": {
+    "name": "Koi",
+    "email": "detarame@example.com"
+  },
+  "repository": "quiz-site/quiz-site",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
